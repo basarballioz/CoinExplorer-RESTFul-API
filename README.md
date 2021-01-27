@@ -1,1 +1,2 @@
 # CoinExplorer-RESTFul-API
+Coin Explorer is a platform that interacts with the Coinmarketcap API, where you can immediately see the details of the crypto currency you want (Symbol, CMC Rank, Supply Amount, Price, etc.).
