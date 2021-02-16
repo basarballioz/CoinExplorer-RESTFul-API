@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "server": "ngrok http 3000"
+    "server": "ngrok http 3000",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
